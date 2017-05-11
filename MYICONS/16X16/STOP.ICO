@@ -1,0 +1,37 @@
+**
+**
+**  VIA Rhine Family Fast Ethernet Adapter
+**
+**  NDIS Driver for LANTASTIC
+**
+**  v4.37    Feb  , 2006
+**
+**
+
+Introduction:
+=============
+
+  This document shows you how to install Lantastic NDIS driver
+  and how to use the enhanced functions by setting the custom keywords.
+
+
+Contents of the Subdirectory:
+=============================
+
+    LANTASTI.TXT        This file.
+    FETND.DOS           The NDIS2 driver.
+    PROTOCOL.INI        Sample protocol.ini file.
+
+
+
+Installation:
+=============
+
+  Before starting with the installation process, make sure that the adapter
+  is properly installed and configured. You can use the diagnostic program
+  (DIAG.EXE) to make sure your connection with the network is correct.
+
+  Install procedure for Lantastic 6.0
+  -----------------------------------
+
+    1) Run Lantastic 6.0 install program and follow scr
